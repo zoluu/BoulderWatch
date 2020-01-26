@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf796ac-9678-4b1f-87c6-5fe5b93aefd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/config/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/persistence/model/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/persistence/repo/SessionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/web/RestExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/web/SessionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/web/SimpleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/web/exception/SessionIDMismatchException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/web/exception/SessionNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/sessionform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/sessionlist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/boulderwatch/SpringBootBootstrapLiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/boulderwatch/SpringContextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/boulderwatch/sessionControllerIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/boulderwatch/sessionControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/boulderSessions/sessionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boulderwatch/sessionController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
