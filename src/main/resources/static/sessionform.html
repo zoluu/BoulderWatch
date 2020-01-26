@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Boulder Session</title>
+</head>
+	<body>
+		<form action = "/BoulderWatch/insert" method="post">
+			<h1>Bouldering Sessions</h1>
+			<p><label>Session Label:</label>
+			<input type="text" name="label" /></p>
+			
+			<p><label>Routes Completed:</label>
+			<input type="number" name="routesCount" /></p>
+			
+			<p><label>Grade:</label>
+			<select name="grade">
+				<option value="VB">VB</option>
+				<option value="V0">V0</option>
+				<option value="V1">V1</option>
+				<option value="V2">V2</option>
+				<option value="V3">V3</option>
+				<option value="V4">V4</option>
+				<option value="V5">V5</option>
+				<option value="V6">V6</option>
+				<option value="V7">V7</option>
+				<option value="V8">V8</option>
+				<option value="V9">V9</option>
+				<option value="V10">V10</option>
+			</select>
+			
+			<p><input type="submit" value="Submit"></p>
+		</form>
+	</body>
+</html>

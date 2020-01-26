@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf796ac-9678-4b1f-87c6-5fe5b93aefd0" name="Default Changelist" comment="" />
+    <list default="true" id="acf796ac-9678-4b1f-87c6-5fe5b93aefd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,15 +13,55 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Building-on-basics-01" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1VFsDFPnDknLGu4CZUBkLrmT51E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="boulderSessions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\BoulderWatch\src\main\resources\static" />
+      <recent name="C:\Projects\BoulderWatch\src\webcontent" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\BoulderWatch\src\main\resources\static" />
+      <recent name="C:\Projects\BoulderWatch\src\main\resources\templates" />
+      <recent name="C:\Projects\BoulderWatch" />
+      <recent name="C:\Projects\BoulderWatch\src\main\resources" />
+      <recent name="C:\Projects\BoulderWatch\src\main\resources\static\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,6 +75,90 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boulderwatch.Application" />
+      <module name="BoulderWatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boulderwatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boulderwatch.Application" />
+      <module name="BoulderWatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boulderSessions.persistence.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBootstrapLiveTest.whenGetAllSessions_thenOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BoulderWatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boulderwatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boulderwatch" />
+      <option name="MAIN_CLASS_NAME" value="com.boulderwatch.SpringBootBootstrapLiveTest" />
+      <option name="METHOD_NAME" value="whenGetAllSessions_thenOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringContextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BoulderWatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boulderwatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boulderwatch" />
+      <option name="MAIN_CLASS_NAME" value="com.boulderwatch.SpringContextTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringContextTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BoulderWatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boulderwatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boulderwatch" />
+      <option name="MAIN_CLASS_NAME" value="com.boulderwatch.SpringContextTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenGetAllSessions_thenOK" />
+        <item itemvalue="JUnit.SpringContextTest.contextLoads" />
+        <item itemvalue="JUnit.SpringContextTest" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,5 +171,21 @@
       <updated>1576860055644</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
